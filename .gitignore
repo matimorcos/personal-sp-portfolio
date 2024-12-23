@@ -1,7 +1,7 @@
 *.db
 assets/external/
 *.py[cod]
-#.web
+.web
 __pycache__/
 
 # Folders
