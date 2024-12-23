@@ -1,0 +1,1 @@
+export default ({ ["styles"] : ({ ["global"] : ({ [":root"] : ({  }), ["body"] : ({ ["backgroundColor"] : "white", ["color"] : "black" }) }) }) })

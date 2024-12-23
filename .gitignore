@@ -1,0 +1,24 @@
+*.db
+assets/external/
+*.py[cod]
+#.web
+__pycache__/
+
+# Folders
+page_bgs
+projects_cards
+qualifies
+stack_icons
+backend.zip
+frontend.zip
+/node_modules
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
